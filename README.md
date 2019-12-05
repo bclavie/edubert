@@ -16,4 +16,4 @@ Tentative:
 title={EduBERT: Pretrained Deep Language Models for Learning Analytics},
 journal={Companion Proceedings of the Tenth International Conference on Learning Analytics And Knowledge - LAK 20},
 author={Clavié, Benjamin and Gal, Kobi},
-year={2020}}```
+year={2020}}
