@@ -13,7 +13,7 @@ DistilEduBERT (.tar.gz, ±235.5MB): https://storage.googleapis.com/edubert/disti
 
 Tentative:
 ```
-@inproceedings{clavié_gal_2020,
+@inproceedings{edubert,
 title={EduBERT: Pretrained Deep Language Models for Learning Analytics},
 booktitle={To Be Published in the Companion Proceedings of the Tenth International Conference on Learning Analytics And Knowledge - LAK 20},
 author={Clavié, Benjamin and Gal, Kobi},
