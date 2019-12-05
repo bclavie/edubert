@@ -9,9 +9,9 @@ EduBERT (.tar.gz, ±388.7MB): https://storage.googleapis.com/edubert/edubert.tar
 DistilEduBERT (.tar.gz, ±235.5MB): https://storage.googleapis.com/edubert/distiledubert.tar.gz
 
 
-# Citing
+## Citing
 
-Tentative (not yet published in the proceedings):
+Tentative:
 ```
 @inproceedings{clavié_gal_2020,
 title={EduBERT: Pretrained Deep Language Models for Learning Analytics},
