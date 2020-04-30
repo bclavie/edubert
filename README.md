@@ -1,7 +1,5 @@
 # edubert
 
-Readme to be updated with instructions very soon.
-
 ## Using the models
 
 Both versions of EduBERT were trained using [Transformers by Huggingface](https://github.com/huggingface/transformers). The best way to use the model is to load its weights&config through the PyTorch implementation of Transformers.
@@ -18,7 +16,7 @@ arXiv (for now):
 @article{edubert,
   title={EduBERT: Pretrained Deep Language Models for Learning Analytics},
   author={Clavi{\'e}, Benjamin and Gal, Kobi},
-  journal={arXiv preprint arXiv:1912.00690, to be presented at the Tenth International Conference on Learning Analytics And Knowledge - LAK 20},
+  journal={Companion Proceedings of the Tenth International Conference on Learning Analytics And Knowledge - LAK 20},
   year={2019}
 }
 ```
