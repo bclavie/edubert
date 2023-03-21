@@ -8,6 +8,8 @@ EduBERT (.tar.gz, ±388.7MB): https://storage.googleapis.com/edubert/edubert.tar
 
 DistilEduBERT (.tar.gz, ±235.5MB): https://storage.googleapis.com/edubert/distiledubert.tar.gz
 
+The models are also available on the HuggingFace Hub: [EduBERT](https://huggingface.co/bclavie/edubert), [DistilEduBERT](https://huggingface.co/bclavie/distiledubert)
+
 
 ## Citing
 
